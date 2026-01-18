@@ -130,7 +130,7 @@ const App = () => {
           />
 
           <label className="flex items-center gap-2 mt-3 text-sm font-medium">
-            <input type="checkbox" name="paid" onChange={handleChange} className="accent-red-600" />
+            <input type="checkbox" name="paid" onChange={handleChange} className="accent-red-800" />
             Mark as Paid
           </label>
 
